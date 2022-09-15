@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Ricardo Simão, programming and technology student! 👋
 
 
 - 🌱 I’m currently learning .ASP NET CORE
