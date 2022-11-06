@@ -24,9 +24,3 @@
   ![Snake animation](https://github.com/RicardoSimao1357/RicardoSimao1357/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-  <div>
-    ![](https://github-readme-stats.vercel.app/api?username=RicardoSimao1357&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=RicardoSimao1357&theme=light&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSimao1357&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  </div>
