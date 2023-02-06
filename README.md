@@ -1,4 +1,4 @@
-### Hi, I'm Ricardo Simão, programming and technology student! 👋
+### Hi, I'm Ricardo Simão - Junior Full-Stack Developer! 👋
 
 
 - 🌱 I’m currently learning .ASP NET CORE
