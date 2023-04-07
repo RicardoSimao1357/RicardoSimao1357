@@ -1,7 +1,8 @@
 ### Hi, I'm Ricardo Simão - Junior Full-Stack Developer! 👋
 
 
-- 🌱 I’m currently learning .ASP NET CORE
+- 🌱 I’m currently working with .NET CORE TECHNOLOGIE
+- 🚀 I’m learning JavaScript
 
 <div align="center">
   <a href="https://github.com/RicardoSimao1357">
