@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently working with .NET CORE TECHNOLOGIE
-- 🚀 I’m learning JavaScript
+- 🚀 I’m learning JavaScript and React
 
 <div align="center">
   <a href="https://github.com/RicardoSimao1357">
